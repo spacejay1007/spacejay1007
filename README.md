@@ -1,9 +1,10 @@
   <h2>Hi,there! 👋 I'm Jaeyong! </<h2>
   
+<div>
 - 🌱 I’m currently learning React & Javascript
 - 📫 How to reach me: spacejay1007@gmail.com
 - ⚡ .. I'm developer~
-  
+</div>
   
 <div>
   <h3> 🛠 Technology Stack </h3> 
