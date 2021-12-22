@@ -1,8 +1,9 @@
-
-프론트엔드 개발자가 되려고합니다
+  <h2>Hi,there! 👋</<h2>
+  
+  <h2>프론트엔드 개발자가 되려고합니다</h2>
 
 <div>
-  <h3> ⚡ 기술 스택 </h3> 
+  <h3> 🛠 Technology Stack </h3> 
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
