@@ -1,7 +1,10 @@
-  <h2>Hi,there! 👋</<h2>
+  <h2>Hi,there! 👋 I'm Jaeyong! </<h2>
   
-  <h2>프론트엔드 개발자가 되려고합니다</h2>
-
+- 🌱 I’m currently learning React & Javascript
+- 📫 How to reach me: spacejay1007@gmail.com
+- ⚡ .. I'm developer~
+  
+  
 <div>
   <h3> 🛠 Technology Stack </h3> 
   
