@@ -1,4 +1,4 @@
-  <h2>Hi,there! 👋 I'm Jaeyong! </<h2>
+  <span>Hi,there! 👋 I'm Jaeyong! </span>
   
 <div>
 - 🌱 I’m currently learning React & Javascript
