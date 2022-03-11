@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning React & Javascript
 - 📫 How to reach me: spacejay1007@gmail.com
-- ⚡ .. I'm developer~
+- ⚡ .. I'm frontEnd developer~
 
   
 <div>
