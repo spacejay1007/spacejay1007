@@ -8,21 +8,24 @@
   
 <div>
   <h3> 🛠 My Technology Stack </h3> 
-  
-<!--   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"> -->
-  <div style="display: flex;">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" />
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" />
-    <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-  
+    
+  <h5>Front</h5>
+     <p>
+      <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REACT-61dafb?style=for-the-badge&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NEXTJS-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REDUX-764abc?style=for-the-badge&logo=redux&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REACTQUERY-ff4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+    </p>
+  <h5>Back</h5>
     <p>
-    <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=Node.JS&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    </p>
+  <h5>Style</h5>
+    <p>
+      <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
     </p>
 </div>
 
