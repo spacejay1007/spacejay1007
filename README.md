@@ -21,6 +21,7 @@
   <h5>Back</h5>
     <p>
       <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=Node.JS&logoColor=white"/>
+      <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white"/>
     </p>
   <h5>Style</h5>
