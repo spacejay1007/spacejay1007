@@ -9,7 +9,6 @@
 <div>
   <h3> 🛠 My Technology Stack </h3> 
     
-  <h5>Front</h5>
      <p>
       <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>
@@ -18,13 +17,11 @@
       <img src="https://img.shields.io/badge/REDUX-764abc?style=for-the-badge&logo=redux&logoColor=white"/>
       <img src="https://img.shields.io/badge/REACTQUERY-ff4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
     </p>
-  <h5>Back</h5>
     <p>
       <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=Node.JS&logoColor=white"/>
       <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white"/>
     </p>
-  <h5>Style</h5>
     <p>
       <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
     </p>
