@@ -8,7 +8,7 @@
   
 <div>
   <h3> 🛠 My Technology Stack </h3> 
-    
+  <div>
      <p>
       <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>
@@ -25,5 +25,6 @@
     <p>
       <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
     </p>
+  </div>
 </div>
 
