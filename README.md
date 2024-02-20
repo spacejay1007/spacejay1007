@@ -7,7 +7,7 @@
 
  ***
 ### 💻My Career
-- 에스에스알(SSR)(2022.02 ~ 현재)
+- 에스에스알(SSR Inc.) (2022.02 ~ 현재)
    - [SSR Home Page](https://ssrinc.co.kr/) (FrontEnd Project Lead)
      - TypeScript, React, Redux, styled-components, scss
       - 채용 페이지 및 복지 제도 페이지 등 CrossBrowsing 및 mediaQuery 를 이용하여 모든 디바이스 사이즈 구현
