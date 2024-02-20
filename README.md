@@ -7,7 +7,7 @@
 <div>
   <h3>💻My Carrer</h3>
   <div>에스에스알(SSR)(2022.02 ~ 현재)</div>
-  [SSR Home Page 웹](https://ssrinc.co.kr/)
+  - [SSR Home Page 웹](https://ssrinc.co.kr/)
   <div>
     Solution MetiEye v3.0
   </div>
