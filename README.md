@@ -6,7 +6,7 @@
 - ⚡ .. I'm frontEnd developer~
 
  ***
-### 💻My Carrer
+### 💻My Career
 - 에스에스알(SSR)(2022.02 ~ 현재)
    - [SSR Home Page](https://ssrinc.co.kr/) (FrontEnd Project Lead)
      - TypeScript, React, Redux, styled-components, scss
