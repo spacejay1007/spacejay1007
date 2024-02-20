@@ -4,16 +4,25 @@
 - 🌱 I’m currently learning React & Javascript 
 - 📫 How to reach me: spacejay1007@gmail.com
 - ⚡ .. I'm frontEnd developer~
-<div>
-  <h3>💻My Carrer</h3>
-  <div>에스에스알(SSR)(2022.02 ~ 현재)</div>
-  - [SSR Home Page 웹](https://ssrinc.co.kr/)
-  <div>
-    Solution MetiEye v3.0
-  </div>
-  
-  
-</div>
+
+ ***
+### 💻My Carrer
+- 에스에스알(SSR)(2022.02 ~ 현재)
+   - [SSR Home Page](https://ssrinc.co.kr/) (FrontEnd Project Lead)
+     - TypeScript, React, Redux, styled-components, scss
+      - 채용 페이지 및 복지 제도 페이지 등 CrossBrowsing 및 mediaQuery 를 이용하여 모든 디바이스 사이즈 구현
+      - AdminPage 작업
+      - 전체 기능 QA
+    - MetiEye v3.0 (FrontEnd Project Lead)
+      - TypeScript, React, Redux, styled-components, scss, socketIO
+      - 로그인 기능 개발
+      - socketIO 실시간 오류 알림
+      - CodeMirror 탐지 소스 보기
+      - GS인증 및 전체 기능 QA
+    - License System[LICM] (FrontEnd Project Lead)
+      - TypeScript, React, Redux, styled-components, scss
+***
+
   
 <div>
   <h3> 🛠 My Technology Stack </h3> 
