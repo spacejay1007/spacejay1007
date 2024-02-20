@@ -1,10 +1,19 @@
 ## <span>Hi,there! 👋 I'm Jaeyong! </span>   
 
 
-- 🌱 I’m currently learning React & Javascript
+- 🌱 I’m currently learning React & Javascript 
 - 📫 How to reach me: spacejay1007@gmail.com
 - ⚡ .. I'm frontEnd developer~
-
+<div>
+  <h3>💻My Carrer</h3>
+  <div>에스에스알(SSR)(2022.02 ~ 현재)</div>
+  [SSR Home Page 웹](https://ssrinc.co.kr/)
+  <div>
+    Solution MetiEye v3.0
+  </div>
+  
+  
+</div>
   
 <div>
   <h3> 🛠 My Technology Stack </h3> 
