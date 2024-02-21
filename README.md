@@ -10,7 +10,7 @@
 ####  🏢 에스에스알(SSR Inc.) (2022.02 ~ 현재)
 1. [SSR Home Page](https://ssrinc.co.kr/) (FrontEnd Project Lead)
       - TypeScript, React, Redux, styled-components, scss
-      - 채용 페이지 및 복지 제도 페이지 등 CrossBrowsing 및 mediaQuery 를 이용하여 모든 디바이스 사이즈 구현
+      - 채용, 복지 제도 페이지 등 CrossBrowsing 및 mediaQuery 를 이용하여 모든 디바이스 사이즈 구현
       - AdminPage 작업
       - 전체 기능 QA
 2.  MetiEye v3.0 (FrontEnd Project Lead)
