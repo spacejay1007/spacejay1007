@@ -17,9 +17,13 @@
       - TypeScript, React, Redux, styled-components, scss, socketIO
       - 로그인 기능 개발
       - socketIO 실시간 오류 알림
-      - CodeMirror 탐지 소스 보기
+      - CodeMirror 탐지 소스 보기 및 그 외 다수 페이지 구현
       - GS인증 및 전체 기능 QA
 3. License System[LICM] (FrontEnd Project Lead)
+      - TypeScript, React, Redux, styled-components, scss
+4. SolidStep CCE
+      - TypeScript, React, Redux, styled-components, scss 
+6. SolidStep CVE
       - TypeScript, React, Redux, styled-components, scss
 ***
 
