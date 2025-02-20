@@ -8,6 +8,8 @@
  ***
 ### 💻My Career
 ####  🏢 (2025.02 ~ 현재)
+1. 신규 Project
+      - TypeScript, React, React-query, react-hook-form, Recoil, scss
 
 ####  🏢 에스에스알(SSR Inc.) (2022.02 ~ 2025.02)
 1. [SSR Home Page](https://www.ssrinc.co.kr/) (FrontEnd Project Lead)
