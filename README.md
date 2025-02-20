@@ -7,7 +7,9 @@
 
  ***
 ### 💻My Career
-####  🏢 에스에스알(SSR Inc.) (2022.02 ~ 현재)
+####  🏢 (2025.02 ~ 현재)
+
+####  🏢 에스에스알(SSR Inc.) (2022.02 ~ 2025.02)
 1. [SSR Home Page](https://www.ssrinc.co.kr/) (FrontEnd Project Lead)
       - TypeScript, React, Redux, styled-components, scss
       - 인재 채용, 복지 제도 페이지 등 CrossBrowsing 및 mediaQuery 를 이용하여 모든 디바이스 사이즈 구현 및 그 외 다수의 페이지 구현
@@ -20,10 +22,6 @@
       - CodeMirror 탐지 소스 보기 및 그 외 다수 페이지 구현
       - GS인증 및 전체 기능 QA
 3. License System[LICM] (FrontEnd Project Lead)
-      - TypeScript, React, Redux, styled-components, scss
-4. SolidStep CCE
-      - TypeScript, React, Redux, styled-components, scss 
-6. SolidStep CVE
       - TypeScript, React, Redux, styled-components, scss
 ***
 
