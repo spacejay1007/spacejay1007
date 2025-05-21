@@ -22,7 +22,7 @@
       - 로그인 기능 개발
       - socketIO 실시간 오류 알림
       - CodeMirror 탐지 소스 보기 및 그 외 다수 페이지 구현
-      - GS인증 및 전체 기능 QA
+      - GS인증 및 전체 기능 QA(Quality Assurance)
 3. License System[LICM] (FrontEnd Project Lead)
       - TypeScript, React, Redux, styled-components, scss
 ***
